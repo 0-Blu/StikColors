@@ -25,7 +25,7 @@ To add **StikColors** to your Xcode project:
 1. In Xcode, go to **File > Add Packages...**.
 2. Enter the repository URL:
    ```plaintext
-   https://github.com/your-username/StikColors
+   https://github.com/0-Blu/StikColors
    ```
 3. Select the latest version and finish.
 
